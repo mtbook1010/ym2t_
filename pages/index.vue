@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class = "d768">このウェブサイトはPC/タブレットに対応していません。スマートフォンでご利用ください。
+    <div class = "d768">このウェブサイトはPC/タブレットに対応していません。スマートフォンでご利用ください。　
     </div>
   <div class = "all">
     <head>
