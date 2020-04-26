@@ -138,8 +138,8 @@ export default {
 <style>
 @media screen and (max-width:767px) { 
 
-html, body {
-  overflow: hidden;
+html{
+  background: #2d73ff;
 }
 
 .d768{
