@@ -138,6 +138,10 @@ export default {
 <style>
 @media screen and (max-width:767px) { 
 
+html, body {
+  overflow: hidden;
+}
+
 .d768{
   display: none;
 }
